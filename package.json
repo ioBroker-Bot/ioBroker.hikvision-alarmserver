@@ -2,10 +2,10 @@
   "name": "iobroker.hikvision-alarmserver",
   "version": "0.1.0",
   "description": "An adapter to receive alarms/events send from Hikvision cameras.",
-  "author": {
-    "name": "Robin Rainton",
-    "email": "robin@rainton.com"
-  },
+  "author": "Robin Rainton <robin@rainton.com>",
+  "contributors": [
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
+  ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.hikvision-alarmserver",
   "license": "MIT",
   "keywords": [
